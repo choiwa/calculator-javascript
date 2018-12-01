@@ -1,1 +1,1 @@
-# implememnt basic calculator using javascript, html and css
+# basic calculator using javascript, html and css
